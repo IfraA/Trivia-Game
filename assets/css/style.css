@@ -1,0 +1,23 @@
+body{
+	font-style: sans-serif, helvetica;
+	
+}
+
+h1{ font-size: 50px;
+	color: white;
+
+}
+
+.container{
+	background-color: white;
+	border-top: solid 1px orange;
+	font-size: 15px;
+	color: black;
+	width: 70%;
+	float: left;
+	margin-left: 30px;
+}
+
+.QA{
+	margin-left: 20px;
+}
