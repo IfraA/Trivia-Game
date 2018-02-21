@@ -1,23 +1,69 @@
 body{
-	font-style: sans-serif, helvetica;
+	font-family: sans-serif, helvetica;
 	
 }
 
-h1{ font-size: 50px;
+h1{ font-size: 40px;
 	color: white;
+	font-style: bold;
+	margin-left: 220px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+	width: 60%;
+	text-align: center;
+	text-shadow: 1px 1px 6px #E2C51B;
+	
 
 }
 
 .container{
 	background-color: white;
-	border-top: solid 1px orange;
+	border: solid 2px #14b1c6;
 	font-size: 15px;
-	color: black;
-	width: 70%;
+	color: #14b1c6;;
+	width: 60%;
 	float: left;
-	margin-left: 30px;
+	margin-left: 250px;
+	align-content: center;
 }
 
-.QA{
-	margin-left: 20px;
+#startbtn{
+	color:white;
+	font-style: bold;
+	font-size: 20px;
+	background-color: #14b1c6;
+	width: 150px;
+	height: 50px;
+	margin-left:380px;
+	margin-top: 10px;
+	
 }
+
+#QA{
+	margin-left: 20px;
+	font-style: bold;
+	margin-bottom: 20px;
+}
+
+#timer{
+	font-style: bold;
+	margin-left: 20px;
+	font-size: 22px;
+	color: #1db7cc;
+	text-shadow: 1px 1px 6px #C1C0BC;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.ques{
+	margin-bottom: 20px;
+	margin-left: 100px;
+	
+}
+
+input, label {
+	margin: 10px;
+	font-style: bold;
+}
+
+
