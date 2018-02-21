@@ -8,7 +8,7 @@ In this assignment a Trivia game was created using JavaScript for the logic and 
 
 * A timer is dispalyed at the top of the form.
 
-* Once time runs out, the page reveals the number of questions the player answers correctly, incorrectly and if left unanswered.
+* Once time runs out, the page reveals the number of questions the player answered correctly, incorrectly and left unanswered.
 
 * The player can only pick one answer per question.
 
