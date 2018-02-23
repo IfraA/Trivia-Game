@@ -157,9 +157,9 @@ function checkGuess() {
 }
 //show the results after game ends
 function results(){
-$("#QA").html("Correct:  " + right);
-$("#QA").append("Wrong: " + wrong);
-$("#QA").append("Unanswered: " +  unanswered);
+$("#QA").html( "Correct:  "+ right + " ");
+$("#QA").append("</br> Wrong: " + wrong + " ");
+$("#QA").append("</br>Unanswered: " +  unanswered + " ");
 }
 
 
