@@ -1,5 +1,7 @@
 # Trivia-Game
 
+https://ifraa.github.io/Trivia-Game/
+
 In this assignment a Trivia game was created using JavaScript for the logic and jQuery to manipulate HTML.
 
 * Once the user clicks on the Start button a trivia form is displayed with multiple choices.
